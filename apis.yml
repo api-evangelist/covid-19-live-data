@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 Live Data
     description: "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths"
     humanURL: https://github.com/mathdroid/covid-19-api
-    baseURL: https://github.com/mathdroid/covid-19-api
     tags:
       - Health
     properties:
